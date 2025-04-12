@@ -52,7 +52,7 @@ if ($_SERVER['HTTP_HOST'] === "localhost:8080"){
 ?>
 ```
 You have to be `localhost` and i'm `127.0.0.1` so I crafted this page that redirect to `http://localhost:8080/flag.php` and uploaded it on my vps and create a simple php server `php -S ip:port -t web/`.
-And when I curl it, it gave me : `MCTF{a1104b51a44ecb61585cafacd59f77c1}`
+And when I curl it and it gave me : `MCTF{a1104b51a44ecb61585cafacd59f77c1}`
 
 
 
