@@ -1,3 +1,16 @@
+# Description
+
+You’re up against The Bot—a relentless, merciless, cold-hearted machine that plays first. Why? Because I said so.
+
+The Rules : (That You Must Obey !)
+
+There are 20 sticks on the table. They stare at you. You stare back.
+The bot always starts. No negotiations. This is my game, my rules.
+On your turn, you can remove 1, 2, or 3 sticks. Choose wisely, mortal.
+The player who takes the last stick LOSES. Meaning, if you pick up that final lonely stick… it's Game Over. And the bot laughs at you. Probably... 
+
+# Solving
+
 The challenge is about the stick game, you have to remove stick (1-3) turn by turn and the person how remove the last(s) one(s) loose, I first tried to legit play the game the issue is since the bot it starting he has 100% chances to win.
 
 After checking the code we can see that the check for the max number of sticks (3) is checked localy :
